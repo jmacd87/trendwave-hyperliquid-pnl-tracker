@@ -1,11 +1,12 @@
 # Trendwave — Hyperliquid Analytics & PnL Tracking
 ## Screenshots
 
-![Trendwave Hyperliquid PnL Analytics Dashboard](Screenshot%202025-12-16%20083640.png)
+![Trendwave Hyperliquid PnL Analytics Dashboard](assets/Screenshot%202025-12-16%20083640.png)
 
-![Hyperliquid Trade Tracker Performance Breakdown](Screenshot%202025-12-16%20084042.png)
+![Hyperliquid Trade Tracker Performance Breakdown](assets/Screenshot%202025-12-16%20084042.png)
 
-![Hyperliquid Analytics and Trade History View](Screenshot%202025-12-16%20084142.png)
+![Hyperliquid Analytics and Trade History View](assets/Screenshot%202025-12-16%20084142.png)
+
 
 Trendwave is a modern analytics platform for crypto perpetual traders, starting with deep performance analytics for **Hyperliquid**.
 
