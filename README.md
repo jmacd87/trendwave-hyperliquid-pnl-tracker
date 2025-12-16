@@ -58,3 +58,11 @@ It provides accurate PnL tracking, trade analytics, and strategy insights to hel
 
 Trendwave is an analytics tool only. It does not provide financial advice.
 
+## Links
+
+https://trendwaveltd.substack.com/p/why-most-hyperliquid-traders-misjudge
+
+https://dev.to/trendwave_df5210b40d2c6c9/i-built-a-hyperliquid-pnl-trade-analytics-tool-because-the-exchange-dashboard-wasnt-enough-4c6c
+
+https://medium.com/@trendwave206/i-built-a-free-pnl-tracker-for-hyperliquid-traders-heres-why-f83133b240ea
+
